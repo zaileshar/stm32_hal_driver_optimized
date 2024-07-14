@@ -8,3 +8,4 @@ module stm32_top (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for performance
