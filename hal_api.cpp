@@ -6,3 +6,4 @@ public:
         std::cout << "Hal_api initialized." << std::endl;
     }
 };
+// Updated logic section 86
