@@ -1,0 +1,8 @@
+#include <iostream>
+
+class Hal_api {
+public:
+    void printStatus() {
+        std::cout << "Hal_api initialized." << std::endl;
+    }
+};
